@@ -28,6 +28,6 @@ Cada script genera un reporte en `/evidences`.
 ##Instalación
 
 ```bash
-git clone 
-cd linux-security-toolkit
+git clone https://github.com/beltraan-sm/Toolkit-Bastionado-Monitoreo.git
+cd toolkit/tools
 chmod +x scripts/*.sh
